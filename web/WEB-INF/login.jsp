@@ -3,10 +3,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>My Notes</title>
+        <title>Email App</title>
     </head>
     <body>
-        <h1>Notes App</h1>
+        <h1>Email App</h1>
         <h2>Login</h2>
         <form action="login" method="post">
             email: <input type="text" name="email"><br>
